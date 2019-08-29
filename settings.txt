@@ -1,0 +1,5 @@
+[your-config]
+BROWSER = firefox
+BROWSER_PATH = /home/khawar/.mozilla/firefox/5q6f3n51.default
+NAME = Khawar Abbas
+PAGE = https://web.whatsapp.com/
